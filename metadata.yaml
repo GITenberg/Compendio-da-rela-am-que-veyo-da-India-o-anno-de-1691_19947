@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8983'
     url: http://www.gutenberg.org/2009/agents/8983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19947#Compendio-da-rela-am-que-veyo-da-India-o-anno-de-1691
 gutenberg_bookshelf: PT Navegações e Explorações
 gutenberg_issued: '2006-11-28'
 gutenberg_type: Text
