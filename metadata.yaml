@@ -1,0 +1,30 @@
+_repo: Compendio-da-rela-am-que-veyo-da-India-o-anno-de-1691_19947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barbosa, Vicente
+    alias: Barbosa, Vincente
+    birthdate: 1663
+    deathdate: 1721
+    gutenberg_agent_id: '8983'
+    url: http://www.gutenberg.org/2009/agents/8983
+description: ''
+gutenberg_bookshelf: PT Navegações e Explorações
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19947'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ventimiglia, Antonio, 1642-1693'
+- !lcsh 'Borneo -- History -- 17th century'
+- !lcc 'DS'
+- !lcsh 'Theatines -- Missions -- Borneo -- Early works to 1800'
+title: Compendio da relaçam, que veyo da India o anno de 1691
+url: http://www.gutenberg.org/ebooks/19947
